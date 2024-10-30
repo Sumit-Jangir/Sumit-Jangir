@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Sumuit Jangir!](https://github.com/Sumit-Jangir)
+# Hey 👋, I'm [Sumit Jangir!](https://github.com/Sumit-Jangir)
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 </div>
 
-## A passionate Front-End Developer from India
+## A Passionate Front-End Developer from India
 
 <br>
 
