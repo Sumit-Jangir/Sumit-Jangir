@@ -2,10 +2,12 @@
 
 <div align="center">
 
-<a href="https://x.com/SumitJangir03" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+
+[![Portfolio](https://img.shields.io/badge/my_portfolio-333333?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sumitjangir.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sumit-jangir-056057253/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumit_.jangir/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jangirsumit609@gmail.com)
+<a href="https://x.com/SumitJangir03" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 
 </div>
 
