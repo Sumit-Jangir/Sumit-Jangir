@@ -15,8 +15,6 @@
 
 <br>
 
-- 🌱 I’m currently learning Full-Stack Developement
-
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
 - 📫 How to reach me **jangirsumit609@gmail.com**
